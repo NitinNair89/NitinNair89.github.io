@@ -1,5 +1,3 @@
-# NitinNair89.github.io
+# Personal Portfolio
 
-Hello, I am Nitin. This is my portfolio page on GitHub!
-
-Thanks! :)
+Hello, I am Nitin. This is my personal portfolio page.
